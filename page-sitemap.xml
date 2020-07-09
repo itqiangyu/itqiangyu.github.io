@@ -8,6 +8,20 @@
     </url>
     
     <url>
+        <loc>https://itqiangyu.github.io/about/</loc>
+        <lastmod>2020-07-09T03:58:44.388Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://itqiangyu.github.io/board/</loc>
+        <lastmod>2020-07-09T03:57:36.404Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://itqiangyu.github.io/Spring/</loc>
         <lastmod>2020-07-09T02:53:54.544Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -29,15 +43,15 @@
     </url>
     
     <url>
-        <loc>https://itqiangyu.github.io/about/</loc>
-        <lastmod>2020-06-06T16:09:39.657Z</lastmod>
+        <loc>https://itqiangyu.github.io/tags/</loc>
+        <lastmod>2020-06-06T04:40:11.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>https://itqiangyu.github.io/board/</loc>
-        <lastmod>2020-06-06T10:05:49.761Z</lastmod>
+        <loc>https://itqiangyu.github.io/friends/</loc>
+        <lastmod>2020-06-06T04:40:11.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -50,21 +64,7 @@
     </url>
     
     <url>
-        <loc>https://itqiangyu.github.io/tags/</loc>
-        <lastmod>2020-06-06T04:40:11.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
         <loc>https://itqiangyu.github.io/contributors/</loc>
-        <lastmod>2020-06-06T04:40:11.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://itqiangyu.github.io/friends/</loc>
         <lastmod>2020-06-06T04:40:11.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
